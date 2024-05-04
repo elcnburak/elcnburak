@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋! I'm Elcin from Ireland</h2>
+I am a software tester who constantly improves in the field of software testing. I live in Ireland and aim to contribute to the development of quality and reliable products in the software world. I prioritize providing error-free and user-friendly applications that meet the expectations of users through software testing.
+
 
 ###
 
