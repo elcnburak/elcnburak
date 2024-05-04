@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋! I'm Elcin from Ireland</h2>
 I'm a software tester in Ireland, constantly evolving in the field of software testing. My aim is to contribute to the development of beloved, reliable, and high-quality software. To achieve this goal, I diligently work to ensure that software is bug-free and user-friendly.
 
+I worked as a quality manager in a factory for five years and obtained a master's degree in Quality Management during this time. Later, I received training as a QA (Quality Assurance) software tester and transitioned to the software industry. These experiences enable me to manage software testing processes more effectively and provide a unique perspective for improving software quality."
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcnburak/) 
 
