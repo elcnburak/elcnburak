@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm Elcin from Ireland</h2>
-I am a software tester who constantly improves in the field of software testing. I live in Ireland and aim to contribute to the development of quality and reliable products in the software world. I prioritize providing error-free and user-friendly applications that meet the expectations of users through software testing.
+I'm a software tester based in Ireland, constantly evolving in the field of software testing. My aim is to contribute to the development of beloved, reliable, and high-quality software. To achieve this goal, I diligently work to ensure that software is bug-free and user-friendly.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcnburak/) 
