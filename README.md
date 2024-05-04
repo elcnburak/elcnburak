@@ -3,7 +3,6 @@ I am a software tester who constantly improves in the field of software testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcnburak/) 
-
 # 💻 Tech Stack:
 <h2 align="center"> 🔭 Technologies and Tools</h2>
 <p align="center">
@@ -42,6 +41,8 @@ I am a software tester who constantly improves in the field of software testing.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elcnburak&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=elcnburak&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="elcnburak" /> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elcnburak&icon=0&color=0)](https://visitcount.itsvg.in)
