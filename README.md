@@ -3,8 +3,8 @@ I am a software tester who constantly improves in the field of software testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcnburak/) 
-# 💻 Tech Stack:
-<h2 align="center"> 🔭 Technologies and Tools</h2>
+
+<h2 align="center"> 🔭💻  Technologies and Tools</h2>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"/>
