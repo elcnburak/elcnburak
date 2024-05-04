@@ -5,7 +5,32 @@ I am a software tester who constantly improves in the field of software testing.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcnburak/) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center"> 🔭 Technologies and Tools</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SELENIUM-white?style=for-the-badge&logo=Selenium"/>
+<img src="https://img.shields.io/badge/POSTMAN-white?style=for-the-badge&logo=Postman"/>
+<img src="https://img.shields.io/badge/CUCUMBER-white?style=for-the-badge&logo=Cucumber"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=red"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/TestNG-grey?style=for-the-badge&logo=testng&logoColor=14354C"/>
+<img src="https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful API-grey?style=for-the-badge&logo=RESTfulAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=JDBC&logoColor=black"/>
+<img src="https://img.shields.io/badge/IntelliJ IDE-grey?style=for-the-badge&logo=lntelliJ&logoColor=black"/>
+<img src="https://img.shields.io/badge/Manual Testing-grey?style=for-the-badge&logo=lntelliJ&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scrum-grey?style=for-the-badge&logo=Scrum&logoColor=black"/>
+<img src="https://img.shields.io/badge/SDLC-grey?style=for-the-badge&logo=Scrum&logoColor=black"/>
+<img src="https://img.shields.io/badge/STLC-grey?style=for-the-badge&logo=Scrum&logoColor=black"/>
+<hr>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elcnburak&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
