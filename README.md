@@ -44,7 +44,4 @@ I'm a software tester in Ireland, always growing in my expertise. Previously, I 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=elcnburak&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="elcnburak" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=elcnburak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
